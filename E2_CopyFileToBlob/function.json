@@ -1,0 +1,10 @@
+{
+  "bindings": [
+    {
+      "name": "filePath",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ],
+  "disabled": false
+}
